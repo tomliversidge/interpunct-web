@@ -1,0 +1,3 @@
+# About
+
+Generative art 
